@@ -1,7 +1,7 @@
 
 # README
 
-This repository contains code for collecting data on Polynomial Continued Fractions (PCFs).
+This repository contains code for the collection and analysis of data on Polynomial Continued Fractions (PCFs), with the aim of generating new conjectures for formulas involving mathematical constants.
 
 ## Links
 
