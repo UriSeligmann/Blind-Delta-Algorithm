@@ -11,7 +11,7 @@ NeurIPS Poster and 5-minute video: [https://neurips.cc/virtual/2024/poster/95491
 
 Group Publication Page: [https://www.ramanujanmachine.com/publications/](url)
 
-## Running the Code using the `search` Function
+## Running the data collection algorithm using the `search` Function
 
 The `search` function is designed for exploring a range of Polynomial Continued Fractions (PCFs) by enumerating all possible polynomial coefficient combinations within a defined search space. For each combination, the function estimates a variety of parameters—such as the convergence rate and the irrationality measure—and writes the results to a CSV file.
 
